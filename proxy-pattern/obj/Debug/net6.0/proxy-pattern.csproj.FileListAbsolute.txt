@@ -1,0 +1,15 @@
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\bin\Debug\net6.0\proxy-pattern.exe
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\bin\Debug\net6.0\proxy-pattern.deps.json
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\bin\Debug\net6.0\proxy-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\bin\Debug\net6.0\proxy-pattern.dll
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\bin\Debug\net6.0\proxy-pattern.pdb
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.csproj.AssemblyReference.cache
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.dll
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\refint\proxy-pattern.dll
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.pdb
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\proxy-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\proxy-pattern\proxy-pattern\obj\Debug\net6.0\ref\proxy-pattern.dll
