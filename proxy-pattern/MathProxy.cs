@@ -6,24 +6,30 @@ using System.Threading.Tasks;
 
 namespace proxy_pattern
 {
-    public class MathProxy : Math
+    public class MathProxy : IMath
     {
-        private Math math = new Math();
+        private Math _math;
+
+        public MathProxy()
+        {
+            _math = new Math();
+        }
+
         public double Add(double x, double y)
         {
-            return math.Add(x, y);
+            return _math.Add(x, y);
         }
         public double Sub(double x, double y)
         {
-            return math.Sub(x, y);
+            return _math.Sub(x, y);
         }
         public double Mul(double x, double y)
         {
-            return math.Mul(x, y);
+            return _math.Mul(x, y);
         }
         public double Div(double x, double y)
         {
-            return math.Div(x, y);
+            return _math.Div(x, y);
         }
     }
 }
